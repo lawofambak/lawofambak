@@ -1,5 +1,6 @@
 - 👋 Hi, Alex here
 - 👀 I’m interested in the world of Web Development
+- 💻 Tech Stack: React/Next.js + Javascript/Typescript + Hardhat/Solidity 
 - 📫 How to reach me >>> lawofambak7@gmail.com <<<
 
 <!---
