@@ -1,7 +1,5 @@
 - 👋 Hi, Alex here
-- 👀 I’m interested in the world of DeFi
-- 🌱 I’m currently learning smart contract engineering / blockchain development
-- 💞️ I’m looking to collaborate on any DeFi related ideas to turn into real life protocols
+- 👀 I’m interested in the world of Web Development
 - 📫 How to reach me >>> lawofambak7@gmail.com <<<
 
 <!---
