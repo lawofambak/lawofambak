@@ -1,5 +1,4 @@
 - 👋 Hi, Alex here
-- 👀 I’m interested in the world of Web Development
 - 🔎 Browse through my different organizations to see my projects
 - 💻 Tech Stack → React/Next.js + Javascript/Typescript + Node.js/Express.js + Hardhat/Solidity 
 - 📚 Currently learning → Svelte, AI, Python, & Blockchain Security
