@@ -3,6 +3,7 @@
 - 💻 Tech Stack → React/Next.js + Javascript/Typescript + Node.js/Express.js + Hardhat/Solidity 
 - 📚 Currently learning → Svelte, AI, Python, & Blockchain Security
 - 📫 How to reach me >>> lawofambak7@gmail.com <<<
+- 🖋️ Check out my blog --> https://lawofambak.hashnode.dev/
 
 <!---
 lawofambak/lawofambak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
